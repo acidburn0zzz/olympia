@@ -3,7 +3,7 @@
 
 Jinja2==2.7.2
 MarkupSafe==0.18
-lxml==2.2.6
+lxml==4.9.1
 m2crypto==0.22.3
 Pillow==2.8.1
 
