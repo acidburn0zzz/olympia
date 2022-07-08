@@ -87,7 +87,7 @@ slumber==0.5.3
 spidermonkey==44.0a2.post2
 SQLAlchemy==0.7.5
 statsd==2.0.3
-suds==0.4
+suds==1.0.0
 thrift==0.9.1
 tower==0.4.1
 urllib3==1.9
