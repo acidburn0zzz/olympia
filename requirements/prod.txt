@@ -68,7 +68,7 @@ pyhs2==0.4.1
 polib==1.0.3
 protobuf==2.5.0
 pyasn1==0.1.7
-PyJWT==1.4.0
+PyJWT==2.4.0
 PyMySQL==0.5
 pyquery==0.4
 python-dateutil==1.5
